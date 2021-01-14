@@ -2,7 +2,7 @@
 Simple overview of the project.
 ## Description
 An in-depth paragraph about your project and overview of use.
-## Exercise 1 ating a repo on github, learning more about markdown
+## Getting Started
 ### Dependencies
 - Describe any prerequisites, libraries, OS version, etc., needed before installing program.
 - ex. Windows 10
